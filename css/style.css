@@ -1,0 +1,24 @@
+.navbar{
+    background-color: darkslategrey;
+}
+
+.quemsomos{
+    background-color: beige;
+    color: navy;
+    
+}
+
+.margin{
+    padding-top: 10px
+    padding-bottom: 50px
+}
+
+body{font: 20px Arial, sans-serif;}
+
+.resumo{
+    background-color: saddlebrown;
+}
+
+.row{
+    size: 10px;
+}
